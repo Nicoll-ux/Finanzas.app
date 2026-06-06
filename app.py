@@ -46,7 +46,7 @@ st.markdown("---")
 
 # 2. CONFIGURACIÓN DE TU BASE DE DATOS REAL (GOOGLE SHEETS)
 # Remplaza este ID por el ID real de tu Google Sheets una vez lo crees y compartas el enlace como lector público.
-SHEET_ID = "TU_ID_DE_GOOGLE_SHEETS_AQUÍ"
+SHEET_ID = "https://docs.google.com/spreadsheets/d/1Kfni6mGq3bE2F2skY5vUaOszTuQ7iAh9Th4cI-AtcwE/edit?gid=1153926804#gid=1153926804"
 URL_ESTUDIO = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet=BD_ESTUDIO"
 URL_FINANZAS = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet=BD_FINANZAS"
 
